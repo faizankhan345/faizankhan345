@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizankhan345
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .Net Core Mvs 5.0, JQuery, JavaScript and much more
+- 🌱 I’m currently learning .Net Core MVC 5.0, SQL Server, JQuery, JavaScript and much more
 - 💞️ I’m looking to collaborate on projects based on .Net Framework.
 - 📫 you can reach me by mailing at faizantoru789@outlook.com
 
